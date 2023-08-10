@@ -1,0 +1,1 @@
+admin login url http://localhost/College/admin/login/login.php
